@@ -1,0 +1,1 @@
+cogs = ["thank_cmd", "leaderboard", "stats"]
